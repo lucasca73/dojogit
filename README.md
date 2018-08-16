@@ -1,1 +1,3 @@
-# dojogit
+# DojoGit
+
+## TREINAMENTO DA FERRAMENTA GIT

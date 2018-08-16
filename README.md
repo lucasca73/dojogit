@@ -1,3 +1,5 @@
 # DojoGit
 
-## TREINAMENTO DA FERRAMENTA GIT
+## TREINAMENTO DA FERRAMENTA GIT.
+
+# Fazendo uma mudança

@@ -1,1 +1,3 @@
 # dojogit
+
+THIS IS THE HOME PAGE

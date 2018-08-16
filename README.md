@@ -1,3 +1,6 @@
-# dojogit
+# DojoGit
 
-THIS IS THE HOME PAGE
+## TREINAMENTO DA FERRAMENTA GIT.
+
+# THIS IS THE HOME PAGE
+# Fazendo uma mudança

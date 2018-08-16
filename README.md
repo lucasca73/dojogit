@@ -4,7 +4,7 @@
 
 # Essa é sem duvidas a melhor branch
 
-** Porque?
+- Porque?
 
 * Porquê não é a do Andre
 * Por quê não é a do Gustavo

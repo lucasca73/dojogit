@@ -1,9 +1,16 @@
+MENSAGEM DO SENHOR PINTO
+
 # dojogit
 
 Qualquer coisa
+
 # DojoGit
 
 ## TREINAMENTO DA FERRAMENTA GIT.
+
+
+# Fazendo uma mudança
+
 
 # THIS IS THE HOME PAGE
 
@@ -16,4 +23,3 @@ Qualquer coisa
 * Porquê não é a do Andre
 * Por quê não é a do Gustavo
 * Porque eu não sei usar os porques
-* Por que sim

@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # dojogit
 
 > Irineu, você não sabe nem eu
-=======
 MENSAGEM DO SENHOR PINTO
 
 # dojogit
@@ -28,4 +26,3 @@ Qualquer coisa
 * Porquê não é a do Andre
 * Por quê não é a do Gustavo
 * Porque eu não sei usar os porques
->>>>>>> dev

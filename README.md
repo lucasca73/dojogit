@@ -26,3 +26,5 @@ Qualquer coisa
 * Porquê não é a do Andre
 * Por quê não é a do Gustavo
 * Porque eu não sei usar os porques
+
+- Treinamento realizado pelo time [iFood-FGA](https://github.com/fga-eps-mds/2018.2-iFood).
